@@ -5,7 +5,7 @@
 
 
 
-[![](https://github-readme-streak-stats.herokuapp.com/?user=alter334&theme=default)](https://github-readme-streak-stats.herokuapp.com/?user=alter334&theme=default)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=alter334&theme=default&locale=ja)](https://github-readme-streak-stats.herokuapp.com/?user=alter334&theme=default)
 
 
 <!--
